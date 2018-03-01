@@ -22,7 +22,7 @@ Step 2. Add the dependency
 ```
 
 ### 使用方式2：
-下载jar<herf url="https://github.com/mengpeng920223/RecyclerView-Gallery/raw/master/recyclerview_gallery_V1.0.0.jar">放到你的lib文件夹里面
+下载jar<herf url="https://gitee.com/mengpeng920223/RecyclerView-Gallery/raw/master/recyclerview_gallery_V1.0.0.jar">放到你的lib文件夹里面
 
 
 ### 快速让你的RecyclerView变成画廊
