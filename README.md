@@ -2,8 +2,7 @@
 一个用recyclerView实现的gallery，0成本学习，1分钟快速集成
 
 ### 效果图如下
-
-![](recycler_gallary.gif)
+![](Untitled.gif)
 
 ### 使用方式1：
 Step 1. Add the JitPack repository to your build file
